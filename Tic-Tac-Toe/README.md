@@ -3,7 +3,9 @@ This is a Tic-Tac-Toe game implementation where two Reinforcement Learning (RL) 
 
 Features
 Reinforcement Learning: Agents learn optimal Tic-Tac-Toe strategies.
+
 Training Mode: Train two RL agents over multiple epochs.
+
 Competing Mode: Trained RL agents play against each other.
 Human vs. RL: Play against a trained RL agent in both console and GUI modes.
 GUI: Interactive game board to play with the RL agent visually.(Coming soon.)
